@@ -30,7 +30,7 @@ El análisis permite tomar una **decisión informada y estratégica** respecto a
 
 ## 🚀 Cómo Ejecutar el Notebook
 
-1. Abre el archivo `informe_final.ipynb` en Google Colab.
+1. Abre el archivo `AluraStoreLatam.ipynb` en Google Colab.
 2. Asegúrate de tener acceso a los enlaces de los CSV (`url`, `url2`, etc.).
 3. Ejecuta las celdas en orden para:
    - Cargar los datos.
